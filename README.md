@@ -1,5 +1,5 @@
 # 👋 Hi, I’m NguyenHongAn
-### A web devoloper from VietNam
+### A intern web devoloper from VietNam
 - I'm study at the HCM University of Science and my major is Software Engineering.
 - I’m interested in Javascript and NodeJS
 - you can contact me throught my email: hongan150699@gmail.com
